@@ -1,0 +1,18 @@
+.style{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1200px;
+    
+}
+#city{
+    color: rgb(255, 255, 255);
+}
+.Button{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+
+
+
